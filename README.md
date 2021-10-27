@@ -4,15 +4,9 @@
 
 ## I'm a Student and Beginner Developer!!
 
-- 🌱 I’m currently learning Golang 🤣
-- 🥅 2021 Goals: Learn Golang
-- ⚡ Fun fact: I started coding when i was 13
-
-
 ### Connect with me:
 
 [<img align="left" alt="Avile.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Avile333 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -31,4 +25,3 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 [website]: https://avile.xyz
-[instagram]: https://instagram.com/avile333
